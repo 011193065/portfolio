@@ -117,20 +117,20 @@ I wondered what the surprise really was, because my mom did take me to her frien
 I was weeping when my mom came to my room. Seeing me crying, she got concerned and asked me what the matter was. I told her that I was upset because everybody had forgotten my birthday and now the day was almost over. My mother smiled as if she was controlling her laughter and told me politely that it was 29th November and not 29th December, which is my actual date of birth!
 
 How my family kept making fun of me till my birthday actually came!</h4>
-            </th>
-        </tr>
-    </table>
-    <br>
-    <table width="100%" border="0">
-        <tr>
-            <th>
-                <h2 align="left">Contact Information:</h2>
-                <h4 align="center">Mailing Address:67,Judges Complex,Kakrail,Dhaka</h4>
-                <h4 align="center">Email :azamim193065@bscse.uiu.ac.bd</h4>
-                <h4 align="center">Mobile No.:01701474299</h4>
-                <a href="https://github.com/011193065"><img src="images (1).jpg" width="50" ></a><a href="https://www.facebook.com/profile.php?id=100006575059043"><img src="images.jpg" width="60"></a>
-            </th>
-        </tr>
-    </table>
+</th>
+</tr>
+</table>
+<br>
+<table width="100%" border="0">
+<tr>
+<th>
+<h2 align="left">Contact Information:</h2>
+<h4 align="center">Mailing Address:67,Judges Complex,Kakrail,Dhaka</h4>
+<h4 align="center">Email :azamim193065@bscse.uiu.ac.bd</h4>
+<h4 align="center">Mobile No.:01701474299</h4>
+<a href="https://github.com/011193065"><img src="images (1).jpg" width="50" ></a><a href="https://www.facebook.com/profile.php?id=100006575059043"><img src="images.jpg" width="60"></a>
+</th>
+</tr>
+</table>
 </body>
 </html>
