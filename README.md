@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
     <title>Araf Zamim</title>
     <style>
@@ -6,7 +5,7 @@ h1 {
   color: black;
 }
 h3{
-  color: balck;
+  color: black;
         }
 h2{
   color: black;
@@ -16,16 +15,13 @@ p {
 }
 </style>
 <body>
-    <table width="100%" border="0" bgcolor="daeff8">
-        <tr>
-            <th align="left">
-                <img src="araf2.0.jpg" width="200">
-                <h1 align="left">Araf Zamim</h1>
-                <h3>United International University,CSE</h3>
-            </th>
-        </tr>
-        </table>
-            <h2 align="left">Education:</h2><br>
+    <div style="background-color: rgb(220, 243, 244)">
+                <img src="araf.jpg" width="200" />
+                <h1 Style="color: Blue; sont-size:28;">Araf Zamim 
+                <h3 Style="color: black; sont-size:28;">United International University,CSE</h3> 
+                </h1>
+            </div>
+            <h2 align="left">Education:</h2><br />
                 <table align="center" width="60%" border="1">
               <tr>
                   <th>Dgree</th>
@@ -46,7 +42,7 @@ p {
                   <th>3.78</th>
               </tr>
             </table>
-    <br>
+    <br />
     <table width="100%" border="0" bgcolor="daeff8">
         <tr>
             <th>
@@ -61,7 +57,7 @@ p {
              </th>
         </tr>    
     </table>
-    <br>
+    <br />
     <table width="100%" border="0">
         <tr>
              <th>
@@ -73,7 +69,7 @@ p {
             </th>
         </tr>
     </table>
-    <br>
+    <br />
     <table width="100%" border="0" bgcolor="daeff8">
         <tr>
              <th>
@@ -85,7 +81,7 @@ p {
             </th>
         </tr>
     </table>
-        <br>
+        <br />
     <table width="100%" border="0">
         <tr>
              <th>
@@ -98,7 +94,7 @@ p {
             </th>
         </tr>
     </table>
-    <br>
+    <br />
     <table width="100%" border="0" bgcolor="daeff8">
         <tr>
              <th>
@@ -117,10 +113,10 @@ I wondered what the surprise really was, because my mom did take me to her frien
 I was weeping when my mom came to my room. Seeing me crying, she got concerned and asked me what the matter was. I told her that I was upset because everybody had forgotten my birthday and now the day was almost over. My mother smiled as if she was controlling her laughter and told me politely that it was 29th November and not 29th December, which is my actual date of birth!
 
 How my family kept making fun of me till my birthday actually came!</h4>
-</th>
-</tr>
-</table>
-<br>
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+<br />
 <table width="100%" border="0">
 <tr>
 <th>
@@ -128,9 +124,19 @@ How my family kept making fun of me till my birthday actually came!</h4>
 <h4 align="center">Mailing Address:67,Judges Complex,Kakrail,Dhaka</h4>
 <h4 align="center">Email :azamim193065@bscse.uiu.ac.bd</h4>
 <h4 align="center">Mobile No.:01701474299</h4>
-<a href="https://github.com/011193065"><img src="images (1).jpg" width="50" ></a><a href="https://www.facebook.com/profile.php?id=100006575059043"><img src="images.jpg" width="60"></a>
+<a href="https://github.com/011193065"><img src="images (1).jpg" width="50" /></a><a href="https://www.facebook.com/profile.php?id=100006575059043"><img src="images.jpg" width="60" /></a>
 </th>
 </tr>
 </table>
-</body>
+&lt;/body&gt;
+&lt;/html&gt;
+</p></th></tr></table></body></html>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+    
+  </body>
 </html>
